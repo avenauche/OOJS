@@ -1,0 +1,5 @@
+[
+    { "caption":"OO Getter Setter", "command": "oogs" },
+    { "caption":"OO Getter", "command": "oog" },
+    { "caption":"OO Setter", "command": "oos" }
+]

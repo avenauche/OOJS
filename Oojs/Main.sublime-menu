@@ -1,0 +1,18 @@
+[  
+{  
+    "id": "edit",  
+    "children":  
+    [  
+    	{
+    		"caption" : "OOJS",
+    		"mnemonic" : "G",
+    		"children": [
+        		{ "command": "oogs" },
+                { "command": "oog" } ,
+                { "command": "oos" }   
+    		]
+    	}
+        
+    ]  
+}  
+] 
